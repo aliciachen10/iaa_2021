@@ -1,7 +1,8 @@
 # [Institute for Advanced Analytics](https://analytics.ncsu.edu/)
-Distributed Data Processing Module - Dan Zaratsian, March 2020
+Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 
------------------
+
+---
 ## IAA Module - Session 1 - Distributed Services and Platform Overview
 [**Slides**](https://docs.google.com/presentation/d/1CC03MXct8pW9DblZ4i7sICcYlbXg81xgyB1DLtDh_ig/edit?usp=sharing)
 * Introduction and Module Agenda
@@ -11,7 +12,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * [Google Colab Notebook Environment](https://colab.sandbox.google.com/)
 * [Google BigQuery Sandbox](https://console.cloud.google.com/bigquery)
 
------------------
+---
 ## IAA Module - Session 2 - SQL and NoSQL Services
 **Slides**
 
@@ -28,7 +29,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 
 **Assignment**
 
------------------
+---
 ## IAA Module - Session 3 - Spark Data Processing & Machine Learning
 **Slides**
 * Apache Spark Overview
@@ -41,7 +42,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 
 **Assignment**
 
------------------
+---
 ## IAA Module - Session 4 - Realtime, Streaming Systems
 **Slides**
 
@@ -52,7 +53,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Demo of Spark Streaming
 * Apache Beam (Google Dataflow)
 
------------------
+---
 ## IAA Module - Session 5 - Serverless Technology
 **Slides** 
 
@@ -62,7 +63,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Google Cloud Functions
 * Google Cloud AutoML
 
------------------
+---
 ## IAA Module - Session 6 - Cloud Machine Learning and Deployments
 **Slides**
 
@@ -74,9 +75,9 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Cloud Deployments - Kubernetes
 * Demo Kubernetes Deployment
 
------------------
+---
 
-## References
+## References:
 * [Apache Spark Docs](https://spark.apache.org/docs/latest/)
 * [Google Cloud BigQuery](https://cloud.google.com/bigquery/what-is-bigquery)
 * [Google Cloud PubSub](https://cloud.google.com/pubsub/docs/concepts)
