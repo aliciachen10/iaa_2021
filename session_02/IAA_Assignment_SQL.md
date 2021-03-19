@@ -4,7 +4,7 @@ Please submit the code and answers to me in a Google Doc, email, or an alternati
 
 Use the San Francisco Bike sharing data to answer the following questions. There are two ways to access the data:
 
-**Option #1 to Access the Data**: Download the files from here [bikesharing_trips.csv](https://raw.githubusercontent.com/zaratsian/iaa_2021/main/session_02/bikeshare_trips.csv) and [bikesharing_stations.csv](https://raw.githubusercontent.com/zaratsian/iaa_2021/main/session_02/bikeshare_stations_info.csv)
+**Option #1 to Access the Data**: Download the files from here [bikesharing_trips.csv](https://raw.githubusercontent.com/zaratsian/iaa_2021/main/session_02/bikeshare_trips.csv) and [bikesharing_stations.csv](https://raw.githubusercontent.com/zaratsian/iaa_2021/main/session_02/bikeshare_station_info.csv)
 
 **Option #2 to Access the Data**: You can query the data directly in [Google Cloud BigQuery](https://console.cloud.google.com/bigquery) using a syntax such as this:
 
