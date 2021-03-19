@@ -28,8 +28,8 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 * Google Cloud Firestore (NoSQL)
 
 **Assignment**
-* **[SQL Assignment](https://github.com/zaratsian/iaa_2021/blob/main/session_02/IAA_Assignment_SQL.md)** (Due on Friday, March 26)
-* **[NoSQL Assignment](https://github.com/zaratsian/iaa_2021/blob/main/session_02/IAA_Firestore_HW.ipynb)** (Due on Friday, March 26)
+* [Assignment 1 SQL](Assignment_1_SQL.md) - Solution (Due on Friday, March 26)
+* [Assignment 2 NoSQL](Assignment_2_NoSQL.ipynb) - Solution (Due on Friday, March 26)
 
 ---
 ## IAA Module - Session 3 - Spark Data Processing & Machine Learning
