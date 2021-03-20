@@ -14,7 +14,7 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 
 ---
 ## IAA Module - Session 2 - SQL and NoSQL Services
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1zB7K2ud91WOKuCENic4WNLz6lSqJ0yUbijYQJ3HbFU0/edit)
 
 * Hadoop 101
 * Intro to Apache Hive
