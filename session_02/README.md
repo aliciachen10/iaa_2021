@@ -1,6 +1,8 @@
 # [Institute for Advanced Analytics](https://analytics.ncsu.edu/)
 Distributed Data Processing - Dan Zaratsian
 
+[**Slides**](https://docs.google.com/presentation/d/1zB7K2ud91WOKuCENic4WNLz6lSqJ0yUbijYQJ3HbFU0/edit#slide=id.g714c40836b_0_347)
+
 ---
 
 ## IAA Module - Session 2 - SQL and NoSQL Services
