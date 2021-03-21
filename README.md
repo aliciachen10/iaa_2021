@@ -33,7 +33,8 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 
 ---
 ## IAA Module - Session 3 - Spark Data Processing & Machine Learning
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1JG4nMPv1ryovSpZG62XGS0frzpb0c82EEincZZ7acMU/edit#slide=id.g7167105720_0_348)
+
 * Apache Spark Overview
 * Spark Machine Learning (MLlib)
 * ML Pipelines
@@ -81,13 +82,17 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 
 ## References:
 * [Apache Spark Docs](https://spark.apache.org/docs/latest/)
-* [Google Cloud BigQuery](https://cloud.google.com/bigquery/what-is-bigquery)
-* [Google Cloud PubSub](https://cloud.google.com/pubsub/docs/concepts)
-* [Google Cloud Firestore](https://cloud.google.com/firestore/docs)
-* [Google Cloud AI Platform](https://console.cloud.google.com/ai-platform/)
-* [Apache Kafka Docs](https://kafka.apache.org/20/documentation.html)
-* [Apache NiFi Docs](https://nifi.apache.org/docs.html)
+* [Google BigQuery](https://cloud.google.com/bigquery/what-is-bigquery)
+* [Google BigQuery Sandbox](https://console.cloud.google.com/bigquery)
 * [Apache Hive Docs](https://cwiki.apache.org/confluence/display/Hive/GettingStarted)
+* [Google Colab Notebooks](https://colab.sandbox.google.com)
+* [Google Cloud AI Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
+* [Google Cloud AI Platform](https://console.cloud.google.com/ai-platform/)
+* [Apache Zeppelin](https://zeppelin.apache.org/)
+* [Google Cloud Firestore](https://cloud.google.com/firestore/docs)
 * [Apache HBase Docs](https://hbase.apache.org/book.html)
 * [Apache Phoenix Docs](https://phoenix.apache.org/)
+* [Google Cloud PubSub](https://cloud.google.com/pubsub/docs/concepts)
+* [Apache Kafka Docs](https://kafka.apache.org/20/documentation.html)
+* [Apache NiFi Docs](https://nifi.apache.org/docs.html)
 * [Docker Docs](https://docs.docker.com/)
