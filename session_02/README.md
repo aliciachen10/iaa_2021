@@ -23,6 +23,32 @@ Distributed Data Processing - Dan Zaratsian
 - [Assignment 1 SQL](Assignment_1_SQL.md) - Solution
 - [Assignment 2 NoSQL](Assignment_2_NoSQL.ipynb) - Solution
 
+--- 
+
+**Docker Containers**
+NOTE: In order to run Docker containers, make sure that you have [Docker installed](https://docs.docker.com/get-docker/). 
+
+To pull and execute a PySpark container, run the following:
+```
+# Pull Docker container
+docker pull jupyter/pyspark-notebook
+
+# Execute Container
+# You can use the -d parameter to detach the container and run in the background
+docker run -p 8888:8888 jupyter/pyspark-notebook
+
+# Alternatively, you could also run this command to get a Jupyter Hub environment
+# docker run -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes -v "$PWD":/home/jovyan/work jupyter/pyspark-notebook 
+
+# Open Jupyter in your browser
+# Go to the link that is provided in the terminal (ie. http://a0f0ce0e598e:8888/?token=abcdefg)
+
+# You can also login directly to the container: 
+docker exec -it name_of_running_container bash
+```
+
+Google Cloud provided [Deep Learning Containers](https://cloud.google.com/ai-platform/deep-learning-containers/docs/choosing-container)
+
 ---
 
 ## References
