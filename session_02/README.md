@@ -26,6 +26,7 @@ Distributed Data Processing - Dan Zaratsian
 --- 
 
 **Docker Containers**
+
 NOTE: In order to run Docker containers, make sure that you have [Docker installed](https://docs.docker.com/get-docker/). 
 
 To pull and execute a PySpark container, run the following:
