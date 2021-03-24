@@ -29,12 +29,12 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 
 **Assignment**
 * [Assignment 1 SQL](https://github.com/zaratsian/iaa_2021/blob/main/session_02/Assignment_1_SQL.md) - Solution 
-  - Due on Friday, March 26)
+  - Due on Friday, March 26
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
 
 * [Assignment 2 NoSQL](https://github.com/zaratsian/iaa_2021/blob/main/session_02/Assignment_2_NoSQL.ipynb) - Solution (Due on Friday, March 26)
-  - Due on Friday, March 26)
+  - Due on Friday, March 26
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
 
@@ -50,7 +50,11 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 * Spark Best Practices and Tuning
 * Spark Code Walk-through (within Google Colab)
 
-**Assignment** (Due on Friday, April 2)
+**Assignment** 
+* [Assignment 3]() - Solution 
+  - Due on Friday, April 2
+  - Please complete as an individual assignment
+  - Email your code to d.zaratsian@gmail.com
 
 ---
 ## IAA Module - Session 4 - Realtime, Streaming Systems
