@@ -51,7 +51,7 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 * Spark Code Walk-through (within Google Colab)
 
 **Assignment** 
-* [Assignment 3]() - Solution 
+* [Assignment 3](https://github.com/zaratsian/iaa_2021/blob/main/session_03/Spark_ML_Assignment_(template).ipynb) - Solution 
   - Due on Friday, April 2
   - Please complete as an individual assignment
   - Email your code to d.zaratsian@gmail.com
