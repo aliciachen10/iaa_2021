@@ -1,8 +1,8 @@
 # [Institute for Advanced Analytics](https://analytics.ncsu.edu/)
-Distributed Data Processing Module - Dan Zaratsian, March 2020
+Distributed Data Processing Module - Dan Zaratsian
 
 -----------------
-## IAA Module - Session 4 - Spark Data Processing & Machine Learning
+## IAA Module - Session 3 - Spark Data Processing & Machine Learning
 [**Slides**](https://docs.google.com/presentation/d/1JG4nMPv1ryovSpZG62XGS0frzpb0c82EEincZZ7acMU/edit#slide=id.p14)
 * Apache Spark Overview
 * Spark Machine Learning (MLlib)
