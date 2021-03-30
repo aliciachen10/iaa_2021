@@ -69,7 +69,7 @@ NOTE: Slides from this week were a continuation from Session 3
 
 ---
 ## IAA Module - Session 5 - Realtime, Streaming Systems
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1yyc1PyXpt-suETXmQJr2FF19lhANVRAQMdo5pujVSw0/edit#slide=id.g71681dc956_0_348)
 
 * Apache Kafka
 * Google PubSub
@@ -77,6 +77,8 @@ NOTE: Slides from this week were a continuation from Session 3
 * Spark Streaming
 * Demo of Spark Streaming
 * Apache Beam (Google Dataflow)
+
+**Assignment** (Due on Friday, April 9th)
 
 ---
 ## IAA Module - Session 6 - CloudML & Serveless Deployments
