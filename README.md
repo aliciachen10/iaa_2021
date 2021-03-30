@@ -57,7 +57,18 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
   - Email your code to d.zaratsian@gmail.com
 
 ---
-## IAA Module - Session 4 - Realtime, Streaming Systems
+## IAA Module - Session 4 - SparkML & Scikit-learn Model Deployment
+
+NOTE: Slides from this week were a continuation from Session 3
+
+* [Spark Pipeline Components](https://spark.apache.org/docs/latest/ml-pipeline.html#main-concepts-in-pipelines)
+* Spark Best Practices
+* Deploying / [Submitting Spark Applications](https://spark.apache.org/docs/latest/submitting-applications.html)
+* Scikit-learn Model Training (with [NFL Notebook](https://github.com/zaratsian/iaa_2021/blob/main/session_03/NFL_Predictions_Jupyter.ipynb))
+* [Scikit-learn Model Deployment Process](https://github.com/zaratsian/ML-Model-Deployment/tree/master/sklearn_nfl)
+
+---
+## IAA Module - Session 5 - Realtime, Streaming Systems
 **Slides**
 
 * Apache Kafka
@@ -68,26 +79,15 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 * Apache Beam (Google Dataflow)
 
 ---
-## IAA Module - Session 5 - Serverless Technology
-**Slides** 
-
-* Overview of Serverless
-* Serverless ML
-* BigQuery ML
-* Google Cloud Functions
-* Google Cloud AutoML
-
----
-## IAA Module - Session 6 - Cloud Machine Learning and Deployments
+## IAA Module - Session 6 - CloudML & Serveless Deployments
 **Slides**
 
 * Overview of Google Cloud and general cloud services for ML Deployment
-* Google Cloud AI Platform
-* Demo ML Model Deployment for NFL Play Predictions ([link to repo](https://github.com/zaratsian/nfl_predictions))
-* Cloud Deployments - App Engine
-* Demo App Engine Deployment
-* Cloud Deployments - Kubernetes
-* Demo Kubernetes Deployment
+* Overview of Serverless
+* Google Cloud Functions
+* BigQueryML
+* AutoML
+* App Engine / Container Based Deployments
 
 ---
 
