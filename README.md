@@ -79,6 +79,7 @@ NOTE: Slides from this week were a continuation from Session 3
 * Apache Beam (Google Dataflow)
 
 **Assignment (Please choose one lab)**
+
 NOTE: In order to complete the lab, please sign-up on [Qwiklabs.com](https://www.qwiklabs.com/). Then go this this [spreadsheet]() and grab a token from the doc in order to use as part of your Qwiklab assignment.
 
 When you complete the assignment, please run the following code:
