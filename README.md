@@ -78,13 +78,13 @@ NOTE: Slides from this week were a continuation from Session 3
 * Demo of Spark Streaming
 * Apache Beam (Google Dataflow)
 
-**Assignment (Please choose one lab)**
+**Assignment** Due on Friday, April 9. 
 
 NOTE: In order to complete the lab, please sign-up on [Qwiklabs.com](https://www.qwiklabs.com/). Then go this this [spreadsheet]() and grab a token from the doc in order to use as part of your Qwiklab assignment.
 
-When you complete the assignment, please run the following code:
+When you complete the assignment, plase email me to let me know what lab you completed. 
 
-Please choose one assignment from the list below:
+Please choose **one** lab from the list below:
 
   - [Building an IoT Analytics Pipeline on Google Cloud](https://run.qwiklabs.com/focuses/605?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9480640)
   - [Building Realtime Pipelines in Cloud Data Fusion](https://run.qwiklabs.com/focuses/12365?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9480847)
