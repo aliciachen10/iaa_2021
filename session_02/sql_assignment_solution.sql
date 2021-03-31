@@ -61,6 +61,7 @@ LIMIT 5
 # Lake Austin & Enfield     East 6th & Pedernales St.                   7709.260055350502
 # Lake Austin & Enfield     East 6th at Robert Martinez                 7281.816803608255
 
+# Here's what I would do if I joined both tables
 SELECT
     c.start_station_name,
     c.end_station_name,
@@ -82,6 +83,17 @@ LEFT JOIN
 ON safe_cast(c.end_station_id as STRING) = safe_cast(d.station_id as STRING)
 ORDER BY dist_meters DESC
 LIMIT 3
+
+
+# Alternative solution - Here's what I would do if I focused on the trips table only.
+SELECT
+    start_station_name,
+    end_station_name,
+    ST_Distance(ST_GeogPoint(end_station_longitude, end_station_latitude), ST_GeogPoint(start_station_longitude, start_station_latitude)) AS dist_meters
+FROM `bigquery-public-data.san_francisco_bikeshare.bikeshare_trips`
+WHERE start_station_latitude is not null and start_station_longitude is not null and end_station_latitude is not null and end_station_longitude is not null
+ORDER BY dist_meters desc
+
 
 # Alternative solution - As you may have noticed, can directly assess the distance
 # from station to station using code similar to the follow. However, beware that
