@@ -80,17 +80,7 @@ NOTE: Slides from this week were a continuation from Session 3
 
 **Assignment** Due on Friday, April 9. 
 
-NOTE: In order to complete the lab, please sign-up on [Qwiklabs.com](https://www.qwiklabs.com/). Then go this this [spreadsheet]() and grab a token from the doc in order to use as part of your Qwiklab assignment.
 
-When you complete the assignment, plase email me to let me know what lab you completed. 
-
-Please choose **one** lab from the list below:
-
-  - [Building an IoT Analytics Pipeline on Google Cloud](https://run.qwiklabs.com/focuses/605?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9480640)
-  - [Building Realtime Pipelines in Cloud Data Fusion](https://run.qwiklabs.com/focuses/12365?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9480847)
-  - [Machine Learning with Spark on Google Cloud Dataproc](https://www.qwiklabs.com/focuses/3383?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9480871)
-  - [Scikit-learn Model Serving with Online Prediction Using AI Platform](https://www.qwiklabs.com/focuses/1788?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9480887)
-  - [Predict Baby Weight with TensorFlow on AI Platform](https://www.qwiklabs.com/focuses/137?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9480887)
 
 ---
 ## IAA Module - Session 6 - CloudML & Serveless Deployments
