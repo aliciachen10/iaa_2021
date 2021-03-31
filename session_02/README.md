@@ -21,7 +21,7 @@ Distributed Data Processing - Dan Zaratsian
 
 **Assignment**
 - [Assignment 1 SQL](Assignment_1_SQL.md) - [Solution](https://github.com/zaratsian/iaa_2021/blob/main/session_02/Assignment_1_SQL_Solution.sql)
-- [Assignment 2 NoSQL](Assignment_2_NoSQL.ipynb) - Solution
+- [Assignment 2 NoSQL](Assignment_2_NoSQL.ipynb) - [Solution](https://github.com/zaratsian/iaa_2021/blob/main/session_02/Assignment_2_NoSQL_Solution.ipynb)
 
 --- 
 
