@@ -20,7 +20,7 @@ Distributed Data Processing - Dan Zaratsian
 * [Google BigQuery Sandbox](https://console.cloud.google.com/bigquery)
 
 **Assignment**
-- [Assignment 1 SQL](Assignment_1_SQL.md) - Solution
+- [Assignment 1 SQL](Assignment_1_SQL.md) - [Solution](https://github.com/zaratsian/iaa_2021/blob/main/session_02/Assignment_1_SQL_Solution.sql)
 - [Assignment 2 NoSQL](Assignment_2_NoSQL.ipynb) - Solution
 
 --- 
