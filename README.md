@@ -33,7 +33,7 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
 
-* [Assignment 2 NoSQL](https://github.com/zaratsian/iaa_2021/blob/main/session_02/Assignment_2_NoSQL.ipynb) - Solution (Due on Friday, March 26)
+* [Assignment 2 NoSQL](https://github.com/zaratsian/iaa_2021/blob/main/session_02/Assignment_2_NoSQL.ipynb) - [Solution](https://github.com/zaratsian/iaa_2021/blob/main/session_02/Assignment_2_NoSQL_Solution.ipynb)
   - Due on Friday, March 26
   - Please complete as an individual assignment
   - Email your code and answers to d.zaratsian@gmail.com
