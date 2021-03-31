@@ -4,6 +4,9 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 
 ---
 ## IAA Module - Session 1 - Distributed Services and Platform Overview
+
+[**Asset Directory**](https://github.com/zaratsian/iaa_2021/tree/main/session_01)
+
 [**Slides**](https://docs.google.com/presentation/d/1CC03MXct8pW9DblZ4i7sICcYlbXg81xgyB1DLtDh_ig/edit?usp=sharing)
 * Introduction and Module Agenda
 * Distributed Computing
@@ -14,6 +17,8 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 
 ---
 ## IAA Module - Session 2 - SQL and NoSQL Services
+[**Asset Directory**](https://github.com/zaratsian/iaa_2021/tree/main/session_02)
+
 [**Slides**](https://docs.google.com/presentation/d/1zB7K2ud91WOKuCENic4WNLz6lSqJ0yUbijYQJ3HbFU0/edit)
 
 * Hadoop 101
@@ -40,6 +45,8 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 
 ---
 ## IAA Module - Session 3 - Spark Data Processing & Machine Learning
+[**Asset Directory**](https://github.com/zaratsian/iaa_2021/tree/main/session_03)
+
 [**Slides**](https://docs.google.com/presentation/d/1JG4nMPv1ryovSpZG62XGS0frzpb0c82EEincZZ7acMU/edit#slide=id.g7167105720_0_348)
 
 * Apache Spark Overview
@@ -69,6 +76,8 @@ NOTE: Slides from this week were a continuation from Session 3
 
 ---
 ## IAA Module - Session 5 - Realtime, Streaming Systems
+[**Asset Directory**](https://github.com/zaratsian/iaa_2021/tree/main/session_05)
+
 [**Slides**](https://docs.google.com/presentation/d/1yyc1PyXpt-suETXmQJr2FF19lhANVRAQMdo5pujVSw0/edit#slide=id.g71681dc956_0_348)
 
 * Apache Kafka
@@ -79,11 +88,13 @@ NOTE: Slides from this week were a continuation from Session 3
 * Apache Beam (Google Dataflow)
 
 **Assignment** Due on Friday, April 9. 
-
+  -- Will be posted on Wednesday, March 31 
 
 
 ---
 ## IAA Module - Session 6 - CloudML & Serveless Deployments
+**Asset Directory**
+
 **Slides**
 
 * Overview of Google Cloud and general cloud services for ML Deployment
