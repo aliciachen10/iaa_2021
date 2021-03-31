@@ -1,8 +1,8 @@
 # [Institute for Advanced Analytics](https://analytics.ncsu.edu/)
-Distributed Data Processing Module - Dan Zaratsian, March 2020
+Distributed Data Processing Module - Dan Zaratsian
 
 -----------------
-## IAA Module - Session 3 - Realtime, Streaming Systems
+## IAA Module - Session 5 - Realtime, Streaming Systems
 [**Slides**](https://docs.google.com/presentation/d/1yyc1PyXpt-suETXmQJr2FF19lhANVRAQMdo5pujVSw0/edit#slide=id.g71681dc956_0_348)
 * Apache Kafka ([link to Dan's Kafka github Repo](https://github.com/zaratsian/Apache-Kafka)) and [GCP-Kafka Repo](https://github.com/zaratsian/GCP_Kafka)
 * Google PubSub
@@ -10,7 +10,6 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Apache Beam (Google Dataflow)
 * Apache NiFi
 
-**No Assignment for this Module**
 
 
 -----------------
