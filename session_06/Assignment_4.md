@@ -12,7 +12,7 @@ This is a choose your own adventure assignment. You can choose one of the follow
 
 2) **(Preferred Option)** Build a Docker container to run python code. The goal of this assignment is to have you create your own docker container. Your Docker container will need to run this [python script](https://github.com/zaratsian/iaa_2021/blob/main/session_06/python_joke.py). If you're able to run this python file within your container, then you've successfully completed the assignment.
 
-Here are suggested steps that I'd take:
+If you choose Homework option #2, then here are suggested steps that I'd take:
 
 1) Install Docker
   -- Install [Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
