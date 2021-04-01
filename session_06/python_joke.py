@@ -2,14 +2,16 @@
 import json
 import requests
 import datetime
+import platform
 import pyjokes
 
 if __name__ == "__main__":
     
     your_name = 'Dan Zaratsian'
     joke = pyjokes.get_joke()
+    platform = platform.platform()
     datetimestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
-    payload = {"name": your_name, "joke":joke, "datetimestamp":datetimestamp}
+    payload = {"name": your_name, "joke":joke, "platform":platform, "datetimestamp":datetimestamp}
     
     r = requests.post('https://us-east1-zproject201807.cloudfunctions.net/iaa-cf',
         headers={'content-type': 'application/json'},
