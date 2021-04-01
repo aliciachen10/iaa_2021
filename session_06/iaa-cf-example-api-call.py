@@ -6,7 +6,7 @@ import requests
 payload = {'name': 'Test user'}
 
 
-r = requests.post('https://us-central1-zproject201807.cloudfunctions.net/iaa-cf-example',
+r = requests.post('https://us-east1-zproject201807.cloudfunctions.net/iaa-cf',
     headers={'content-type': 'application/json'},
     data=json.dumps(payload))
 
