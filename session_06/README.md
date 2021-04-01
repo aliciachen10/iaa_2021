@@ -1,14 +1,16 @@
 # [Institute for Advanced Analytics](https://analytics.ncsu.edu/)
-Distributed Data Processing Module - Dan Zaratsian, March 2020
+Distributed Data Processing Module - Dan Zaratsian
 
 -----------------
-## IAA Module - Session 5 - Serverless Technology
-[**Slides**](https://docs.google.com/presentation/d/1avRm-Ezi4Zj4GiAMR55OgfWN13C7pnvWy6Ck4kya7zQ/edit#slide=id.g4b0af3364f_1_5183)
-* Overview of Serverless
-* Serverless ML
-* BigQuery ML
-* Google Cloud Functions
-* Google Cloud AutoML
+## IAA Module - Session 6 - Cloud Services for AI and Machine Learning
+
+[**Slides**](https://docs.google.com/presentation/d/1japBzNy7__ryVESQB05hmjKphU6QRqQ79hWWeFLDvGA/edit?usp=sharing)
+
+* Overview of Cloud Services (forcused on Google Cloud)
+* [BigQueryML](https://cloud.google.com/bigquery-ml/docs/introduction)
+* [AutoML](https://cloud.google.com/automl)
+* Serverless functions with [Google Cloud Functions](https://cloud.google.com/functions)
+* Container Based Deployments
 
 -----------------
 
