@@ -8,7 +8,7 @@ Due on **Wednesday, April 13, 2021**.
 
 This is a choose your own adventure assignment. You can choose one of the following:
 
-1) Select a Kaggle dataset and write SparkML code to train an ML model. YOu can choose any dataset that you want. This will also be very similar to what you did in assignment #3, with the goal of repetition and potentially forcing you to use new spark functions to process the new dataset.
+1) Select a [Kaggle dataset](https://www.kaggle.com/datasets) and write SparkML code to train an ML model. YOu can choose any dataset that you want. This will also be very similar to what you did in assignment #3, with the goal of repetition and potentially forcing you to use new spark functions to process the new dataset.
 
 2) **(Preferred Option)** Build a Docker container to run python code. The goal of this assignment is to have you create your own docker container. Your Docker container will need to run this [python script](https://github.com/zaratsian/iaa_2021/blob/main/session_06/python_joke.py). If you're able to run this python file within your container, then you've successfully completed the assignment.
 
