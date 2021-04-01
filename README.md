@@ -93,16 +93,15 @@ NOTE: Slides from this week were a continuation from Session 3
 
 ---
 ## IAA Module - Session 6 - CloudML & Serveless Deployments
-**Asset Directory**
+[**Asset Directory**](https://github.com/zaratsian/iaa_2021/tree/main/session_06)
 
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1japBzNy7__ryVESQB05hmjKphU6QRqQ79hWWeFLDvGA/edit?usp=sharing)
 
-* Overview of Google Cloud and general cloud services for ML Deployment
-* Overview of Serverless
-* Google Cloud Functions
-* BigQueryML
-* AutoML
-* App Engine / Container Based Deployments
+* Overview of Google Cloud
+* [BigQueryML](https://cloud.google.com/bigquery-ml/docs/introduction)
+* [AutoML](https://cloud.google.com/automl)
+* Serverless functions with [Google Cloud Functions](https://cloud.google.com/functions)
+* Container Based Deployments
 
 ---
 
