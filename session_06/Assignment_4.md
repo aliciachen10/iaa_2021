@@ -22,7 +22,9 @@ If you choose the Docker homework (option #2), then here are suggested steps tha
 2) Create a [Dockerfile](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
     
     a) Install python as part of the Dockerfile
+    
     b) pip install any required python packages (hint: pyjokes)
+    
     c) Add a way to call the [python script](https://github.com/zaratsian/iaa_2021/blob/main/session_06/python_joke.py) from within the Docker container
 
 3) [Build the Docker container](https://docs.docker.com/language/python/build-images/#build-an-image)
