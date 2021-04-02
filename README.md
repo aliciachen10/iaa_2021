@@ -87,10 +87,12 @@ NOTE: Slides from this week were a continuation from Session 3
 * Demo of Spark Streaming
 * Apache Beam (Google Dataflow)
 
-[**Assignment**](https://github.com/zaratsian/iaa_2021/blob/main/session_06/Assignment_4.md)
-
-Due on Wednesday, April 14,2021 
-
+**Assignment**
+* [Assignment 4 - SparkML or Docker Container](https://github.com/zaratsian/iaa_2021/blob/main/session_06/Assignment_4.md)
+  -- Due on Wednesday, April 14,2021 
+  -- Additional Docker content will be covered on Friday
+  -- Email me with any questions regarding the assignment. 
+  -- Please submit your code by email to d.zaratsian@gmail.com
 
 ---
 ## IAA Module - Session 6 - CloudML & Serveless Deployments
