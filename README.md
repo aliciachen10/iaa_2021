@@ -87,8 +87,9 @@ NOTE: Slides from this week were a continuation from Session 3
 * Demo of Spark Streaming
 * Apache Beam (Google Dataflow)
 
-**Assignment** Due on Friday, April 9. 
-  -- Will be posted on Wednesday, March 31 
+[**Assignment**](https://github.com/zaratsian/iaa_2021/blob/main/session_06/Assignment_4.md)
+
+Due on Wednesday, April 14,2021 
 
 
 ---
