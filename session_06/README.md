@@ -12,13 +12,6 @@ Distributed Data Processing Module - Dan Zaratsian
 * Serverless functions with [Google Cloud Functions](https://cloud.google.com/functions)
 * Container Based Deployments
 
-**Assignment**
-* [Assignment 4 - SparkML or Docker Container](https://github.com/zaratsian/iaa_2021/blob/main/session_06/Assignment_4.md)
-  - Due on Wednesday, April 14,2021 
-  - Additional Docker content will be covered on Friday
-  - Email me with any questions regarding the assignment. 
-  - Please submit your code by email to d.zaratsian@gmail.com
-
 -----------------
 
 ## References
