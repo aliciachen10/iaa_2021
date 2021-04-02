@@ -29,11 +29,11 @@ If you choose the Docker homework (option #2), then here are suggested steps tha
 
 3) [Build the Docker container](https://docs.docker.com/language/python/build-images/#build-an-image)
 
-4) [Run the Docker Container](https://docs.docker.com/language/python/run-containers/). 
+4) [Run the Docker Container](https://docs.docker.com/language/python/run-containers/)
 
 **References:**
-  -- [Building a Python Docker Container](https://docs.docker.com/language/python/build-images/)
-  -- [Dan's Docker Containers](https://github.com/zaratsian/docker_containers/tree/master/containers)
-  -- [Docker Tutorial for Beginners](https://docker-curriculum.com/)
-    -- [Creating a Simple Python Dockerfile](https://docker-curriculum.com/#dockerfile)
+  - [Building a Python Docker Container](https://docs.docker.com/language/python/build-images/)
+  - [Dan's Docker Containers](https://github.com/zaratsian/docker_containers/tree/master/containers)
+  - [Docker Tutorial for Beginners](https://docker-curriculum.com/)
+  - [Creating a Simple Python Dockerfile](https://docker-curriculum.com/#dockerfile)
   
