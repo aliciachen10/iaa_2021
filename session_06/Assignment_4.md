@@ -15,9 +15,9 @@ This is a choose your own adventure assignment. You can choose one of the follow
 If you choose the Docker homework (option #2), then here are suggested steps that I'd take:
 
 1) Install Docker
-  - Install [Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
-  - Install [Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
-  - Install [Docker for Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
+    - Install [Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
+    - Install [Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
+    - Install [Docker for Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 
 2) Create a [Dockerfile](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
     
