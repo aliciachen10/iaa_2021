@@ -4,7 +4,7 @@ Distruted Analytics & Machine Learning - Dan Zaratsian, March 2021
 -----------------
 ## Assignment #4 - Docker Containers or SparkML
 
-Due on **Wednesday, April 13, 2021**.
+Due on **Wednesday, April 14, 2021**.
 
 This is a choose your own adventure assignment. You can choose one of the following:
 
